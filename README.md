@@ -1,14 +1,14 @@
 ## What you will learn:
 
-	* Design, develop, deploy, and test the apps you build.
-	* Work your way through every aspect of app development using Angular2.
-	* Understand the inner workings of Angular’s view templating and data-binding capabilities.
-	* Construct a Model for ASP.NET Core MVC application.
-	* Devise a custom mechanism to provide maximum flexibility to your application through routing.
-	* Explore new configuration and deployment scenarios—in this step-by-step guide to deploying ASP.NET Core web application in Linux.
-	* See how ASP.NET Core’s and Angular 2’s features perfectly complement each other.
-	* Set up and optimize your production environment using IIS and SQL Server.
-	* Create responsive, mobile-friendly views using Bootstrap and LESS
+* Design, develop, deploy, and test the apps you build.
+* Work your way through every aspect of app development using Angular2.
+* Understand the inner workings of Angular’s view templating and data-binding capabilities.
+* Construct a Model for ASP.NET Core MVC application.
+* Devise a custom mechanism to provide maximum flexibility to your application through routing.
+* Explore new configuration and deployment scenarios—in this step-by-step guide to deploying ASP.NET Core web application in Linux.
+* See how ASP.NET Core’s and Angular 2’s features perfectly complement each other.
+* Set up and optimize your production environment using IIS and SQL Server.
+* Create responsive, mobile-friendly views using Bootstrap and LESS
 
 
 
